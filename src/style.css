@@ -3,3 +3,30 @@
 @tailwind utilities;
 
 
+.h-1100{
+    height: 1100px;
+}
+.h-650{
+    height: 650px;
+}
+.w-13{
+    width: 110px;
+}
+.w-200{
+    width: 200px;
+}
+.h-13{
+    height: 110px;
+}
+.w-290{
+    width: 290px;
+}
+.align-items-baseline{
+    align-items: baseline;
+}
+.ml-65{
+    padding-left: 20%;
+}
+.pl-116{
+    padding-left: 98px;
+}
